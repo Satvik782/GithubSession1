@@ -1,4 +1,4 @@
-# RoboviticsGithubSesh
+# GithubSesh1
 # Heading
-## Subtitle
-Robovitics Initial Repo
+## Subtitle 
+Initial Repo
